@@ -7,7 +7,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-### git clone https://github.com/artin12703/ipkiller
+### git clone https://github.com/artin12703/ipkiller v2
 
 ### cd ipkiller
 
